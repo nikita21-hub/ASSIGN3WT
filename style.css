@@ -1,0 +1,34 @@
+
+
+
+body{
+  background-image: url('food.jpg');
+  background-size: cover;
+
+}
+
+
+
+      #tabl{
+        background-color: blue;
+color: #fff;
+text-shadow: 10px 10px 10px 10px black;
+        display:none;
+      }
+      .tab{
+        margin-top: 30px;
+        padding-left: 60px;
+      }
+       th,td{
+        font-size: 20px;
+      }
+      .cont{
+        padding-top: 30px;
+        text-align: center;
+      
+      }
+.navbar a{
+    margin-left: 600px;
+    text-align:center;
+    font-size: 40px;
+}
